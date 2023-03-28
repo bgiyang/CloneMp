@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello, JSP(BGY)</h1>
+<h1>Hello, JSP(BGY)</h1>
 </body>
 </html>
